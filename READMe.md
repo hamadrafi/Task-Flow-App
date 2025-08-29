@@ -62,4 +62,21 @@ TaskFlow
 - 💳 Interactive pricing & menu  
 
 ---
+## 📦 Tech Stack  
+- **HTML5**  
+- **CSS3 + Animations**  
+- **JavaScript (ES6)**  
+- **Font Awesome**  
+
+---
+
+## 🌐 Live Demo  
+👉 [View Website](https://hamadrafi.github.io/Task-Flow-App/)  
+
+---
+
+## 📜 License  
+This project is licensed under the **MIT License** – feel free to use and modify.  
+
+
 
